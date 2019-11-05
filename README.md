@@ -1,5 +1,5 @@
 # Generational multiplex analysis
-Pipeline for the analysis of single-cell familial data from multiplex clonal assay
+Pipeline for the analysis of single-cell familial data from multiplex clonal assay [1].
 
 - Folders:
 	
@@ -17,10 +17,15 @@ Pipeline for the analysis of single-cell familial data from multiplex clonal ass
 	
 	- 0_process_data.ipynb takes the csv files from csv/Single_cell folders to pool these into a single file, csv/Single_cell/Pooled_data.csv. Similarly for the files in csv/Sort. Gating_matrix.xlsx is used here to determine the class of each cell;
 
-	- 1_dot_plot.ipynb plots cells as dots arranged by family and generation and color-coded by cell class;
+	- 1_dot_plot.ipynb plots cells as dots arranged by family and generation and color-coded by cell class [1-3];
 
-	- 2_bar_plot.ipynb plots stacked bar plots for categorical data;
+	- 2_bar_plot.ipynb plots stacked bar plots for categorical data [1];
 	
-	- 3_bbmodel_concordance.ipynb fits the beta-binomial model to the generational range observed, then plots range distributions from data, best-fit, other parameters of reference;
+	- 3_bbmodel_concordance.ipynb fits the beta-binomial model to the generational range observed, then plots range distributions from data, best-fit, other parameters of reference [1,3];
 	
-	- 4_permutation_testing.ipynb runs statistical hypothesis testing by permutation. 
+	- 4_permutation_testing.ipynb runs statistical hypothesis testing by permutation [1,2].
+
+<strong>References:</strong>
+- [1] Tak, T., Prevedelllo, G., Simon, G., Paillon, N., Duffy, K. R., & Perie, L. (2019). Simultaneous tracking of division and differentiation from individual hematopoietic stem and progenitor cells reveals within-family homogeneity despite population heterogeneity. bioRxiv, 586354.
+- [2] Horton, M. B., Prevedello, G., Marchingo, J. M., Zhou, J. H., Duffy, K. R., Heinzel, S., & Hodgkin, P. D. (2018). Multiplexed division tracking dyes for proliferation-based clonal lineage tracing. The Journal of Immunology, 201(3), 1097-1103.
+- [3] Marchingo, J. M., Prevedello, G., Kan, A., Heinzel, S., Hodgkin, P. D., Duffy, K. R. (2016). T-cell stimuli independently sum to regulate an inherited clonal division fate. Nature communications, 7, 13540.
