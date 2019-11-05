@@ -33,5 +33,5 @@ Python 3 notebooks:
 <strong>References:</strong><br>
 [1] Tak, T., Prevedelllo, G., Simon, G., Paillon, N., Duffy, K. R., & Perie, L. (2019). Simultaneous tracking of division and differentiation from individual hematopoietic stem and progenitor cells reveals within-family homogeneity despite population heterogeneity. bioRxiv, 586354.<br>
 [2] Horton, M. B., Prevedello, G., Marchingo, J. M., Zhou, J. H., Duffy, K. R., Heinzel, S., & Hodgkin, P. D. (2018). Multiplexed division tracking dyes for proliferation-based clonal lineage tracing. The Journal of Immunology, 201(3), 1097-1103.<br>
-[3] Marchingo, J. M., Prevedello, G., Kan, A., Heinzel, S., Hodgkin, P. D., Duffy, K. R. (2016). T-cell stimuli independently sum to regulate an inherited clonal division fate. Nature communications, 7, 13540.
+[3] Marchingo, J. M., Prevedello, G., Kan, A., Heinzel, S., Hodgkin, P. D., Duffy, K. R. (2016). T-cell stimuli independently sum to regulate an inherited clonal division fate. Nature Communications, 7, 13540.
 </p>
