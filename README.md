@@ -44,3 +44,9 @@ This script will then return a pooled data csv file that also contains the colum
 [2] Horton, M. B., Prevedello, G., Marchingo, J. M., Zhou, J. H., Duffy, K. R., Heinzel, S., & Hodgkin, P. D. (2018). Multiplexed division tracking dyes for proliferation-based clonal lineage tracing. The Journal of Immunology, 201(3), 1097-1103<br>
 [3] Marchingo, J. M., Prevedello, G., Kan, A., Heinzel, S., Hodgkin, P. D., Duffy, K. R. (2016). T-cell stimuli independently sum to regulate an inherited clonal division fate. Nature Communications, 7, 13540
 </p>
+
+<p>
+<strong>Copyright statements:</strong><br>
+Copyright (C) 2014-2020 Maynooth University
+Copyright (C) 2020 Sony
+</p>
